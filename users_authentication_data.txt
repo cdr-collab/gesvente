@@ -1,0 +1,9 @@
+users
+admin: email: admin@gmail.com et password: password123
+vendeur: email: alex@gmail.com et password: alexandre11
+vendeur: email: vendeur2@gmail.com et password: password33
+admin: email: nadette@yahoo.fr et passwor: Bernadette22
+vendeur: email: julien@gmail.com et password: julien235
+
+
+16OCTober24!!
